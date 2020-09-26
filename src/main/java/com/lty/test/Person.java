@@ -8,4 +8,6 @@ public class Person {
 
     private String address;
 
+    private double salary;
+
 }
